@@ -18,7 +18,7 @@ agile collaboration, and the early stages of startup thinking—leaving with a p
 a pitch, a lean business canvas, and insights into building responsible and impactful technology.   
 
 *Note this course was formerly called Startup Programming - we have renamed the course to 
-capture the nature of his unique cross-listed Software Engineering course with Business. 
+capture the nature of this unique cross-listed Software Engineering course with Business. 
 See [startup-programming.com
 ](https://startup-programming.com) for information on previous offerings of this course.   
 More details on the next offering will be shared here soon. 
