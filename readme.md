@@ -21,4 +21,6 @@ a pitch, a lean business canvas, and insights into building responsible and impa
 capture the nature of this unique cross-listed Software Engineering course with Business. 
 See [startup-programming.com
 ](https://startup-programming.com) for information on previous offerings of this course.   
-More details on the next offering will be shared here soon. 
+
+Please visit See [startup-studio.ai]
+](https://startup-studio.ai) for the current offering. 
