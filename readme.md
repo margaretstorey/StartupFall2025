@@ -22,4 +22,5 @@ capture the nature of this unique cross-listed Software Engineering course with 
 See [startup-programming.com
 ](https://startup-programming.com) for information on previous offerings of this course.   
 
-Please visit See [startup-studio.ai](https://startup-studio.ai) for the current offering. 
+See [startup-studio.ai]
+(https://startup-studio.ai) for the current offering. 
